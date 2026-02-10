@@ -1,0 +1,7 @@
+{
+  "name": "Glamora Beauty & Salon Store",
+  "description": "A premium, production-ready e-commerce and local business platform for beauty products and professional salon supplies.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
